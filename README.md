@@ -1,3 +1,3 @@
-# DS3302
+# ExamDS3302
 
 Exam in Interaction design grade: A
